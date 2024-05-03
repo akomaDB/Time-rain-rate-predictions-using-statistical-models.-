@@ -1,1 +1,1 @@
-# Time-rain-rate-predictions-using-statistical-models.-
+# Time-rain-rate-predictions-using-statistical-models.-Intense rainfall is a significant factor affecting communication systems as radio signals interact with raindrops along their propagation path in the troposphere. However, the spatial and temporal variability of rainfall makes its measurement and prediction challenging. This code investigate statistical methodologies for predicting time series values of rain rate using rainfall data collected for seven months in the year 2014's rainy season. 
